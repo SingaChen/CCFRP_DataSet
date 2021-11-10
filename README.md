@@ -3,6 +3,8 @@ This is the dataset of our continuous carbon fibre printing project
 
 There are 4 models in the dataset, namely Bar, Shell, Loop and Wrench.
 
+Please refer to the .obj files for 3D view, which are the input of TetGen(.tet) files.
+
 Three printing strategies are generated for all models, namely FDM, Zigzag_Contour, and Ours.
 
 The FDM strategy is similar with traditional FDM printing, only PLA layers are printed along one direction and the angle difference is 45 degrees between neighboring layer.
