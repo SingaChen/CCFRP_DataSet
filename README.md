@@ -5,7 +5,7 @@ Here we provide another format for CCF waypoints, named __Generator_XXX_raw.tx__
 The explanation is shwon below:
 1. "S" Start of a toolpath
 2. "E" End of a toolpath
-3. "X-42.1257 Y9.50999 Z0.25" The waypoints for CCF
+3. "X-42.1257 Y9.50999 Z0.25" The waypoints for CCF.
 
 *Note that only toolpath of CCF is recorded in this file*
 ****
